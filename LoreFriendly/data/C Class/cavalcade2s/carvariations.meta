@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>cavalcade2s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            127 
+            0 
+            156
+            107
+            127	
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            103
+            111 
+            154 
+            156
+            111
+            111	
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            44
+            0 
+            156
+            111
+            44	
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0 
+            140
+            0 
+            156
+            107
+            140	
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            141 
+            140 
+            63
+            156
+            18
+            140	
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
