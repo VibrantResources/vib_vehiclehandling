@@ -203,3 +203,12 @@ Within that file I've seperated all classes based on the same class systems with
 
 - The carcols, carvariations and vehicle(meta) files are edits either to prevent weapons on cars or other things that may not be wanted on a FiveM RP server
 If they are not useful for you, simply delete them and the base game will take over from there
+
+
+# DISCLAIMER!!!!
+
+- dUe to the amount of handling files within, it'd be difficult to list every single person we may owe credit to so CREDIT WHERE CREDIT IS DUE
+
+- If you or someone you know is owed credit then please feel free to reach out to us on our Discord and open a ticket! We'll be more than happy to discuss!
+
+# Discord: https://discord.gg/mTzwCnNcaX
