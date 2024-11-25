@@ -207,7 +207,7 @@ If they are not useful for you, simply delete them and the base game will take o
 
 # DISCLAIMER!!!!
 
-- dUe to the amount of handling files within, it'd be difficult to list every single person we may owe credit to so CREDIT WHERE CREDIT IS DUE
+- Due to the amount of handling files within, it'd be difficult to list every single person we may owe credit to so CREDIT WHERE CREDIT IS DUE
 
 - If you or someone you know is owed credit then please feel free to reach out to us on our Discord and open a ticket! We'll be more than happy to discuss!
 
